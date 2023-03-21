@@ -80,7 +80,7 @@ namespace pattern
 ~~~
 
 ## Output:
-![output]()
+![output](https://github.com/ragulmani936/C-Pattern/blob/main/img%201.png)
 
 ## Result:
 Thus,To write a C# program for a pascal's triangle is written and executed.
